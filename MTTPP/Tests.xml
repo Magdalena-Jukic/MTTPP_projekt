@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Tests">
+<test name = "AddToCart">
+    <classes>
+        <class name = "com.example.Tests.AddToCart"/>
+    </classes>
+</test>
+<test name = "Shipping">
+    <classes>
+        <class name = "com.example.Tests.Compare"/>
+    </classes>
+</test>
+<test name = "Register">
+    <classes>
+        <class name = "com.example.Tests.Register"/>
+    </classes>
+</test>
+<test name = "LogIn">
+    <classes>
+        <class name = "com.example.Tests.LogIn"/>
+    </classes>
+</test>
+<test name = "RemoveFromCart">
+    <classes>
+        <class name = "com.example.Tests.RemoveFromCart"/>
+    </classes>
+</test>
+<test name = "Filter">
+    <classes>
+        <class name = "com.example.Tests.Filter"/>
+    </classes>
+</test>
+</suite>
