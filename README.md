@@ -19,7 +19,7 @@ Kako bi kupnja bila ustinu lakša, korisnicima je omogućeno dodavanje proizvoda
 <p>IntelliJ IDEA jedan je od najpopularnijih i najsnažnijih IDE-ova za razvoj Jave. IntelliJ IDEA razvija i održava JetBrains.
 Ovaj IDE dizajniran je prema načelu kodiranja da programeri trebaju biti u mogućnosti kodirati aplikacije sa što manje ometanja. Tako u slučaju IntelliJ IDEA imate na zaslonu vidljiv samo uređivač, a za sve ostale funkcije povezane s kodiranjem imat ćete namjenske prečace.</p>
 
-<p>Važne značajke IntelliJ IDEA.</p>
+<p>Važne značajke IntelliJ IDEA:</p>
 
 <p>
     <b>Pametno dovršenje koda</b> : IntelliJ IDEA nudi popis simbola primjenjivih na kôd koji su najrelevantniji u trenutnom kontekstu i podržava dovršavanje koda zasnovanog na kontekstu.<br>
