@@ -22,7 +22,7 @@ Ovaj IDE dizajniran je prema načelu kodiranja da programeri trebaju biti u mogu
 <p>Važne značajke IntelliJ IDEA.</p>
 
 <p>
-**Pametno dovršenje koda** : IntelliJ IDEA nudi popis simbola primjenjivih na kôd koji su najrelevantniji u trenutnom kontekstu i podržava dovršavanje koda zasnovanog na kontekstu.<br>
+    <b>Pametno dovršenje koda</b> : IntelliJ IDEA nudi popis simbola primjenjivih na kôd koji su najrelevantniji u trenutnom kontekstu i podržava dovršavanje koda zasnovanog na kontekstu.<br>
 **Dovršenje lančanog koda** : Ovo je još jedna napredna značajka. Simboli koje pružaju metode ili geteri i oni koji se primjenjuju na trenutni kontekst navedeni su značajkom dovršavanja lančanog koda.<br>
 **Dovršenje statičnog člana** : Možete dodati statičke metode i konstante, a IntelliJ IDEA IDE automatski će dodati potrebne izjave o uvozu u kôd kako bi se izbjegla pogreška pri kompilaciji.<br>
 **Duplikati Otkrivanje** : U kodu mogu biti duplicirani fragmenti koda i ova značajka pruža obavijesti ili prijedloge programeru o njima.<br>
