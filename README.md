@@ -23,13 +23,13 @@ Ovaj IDE dizajniran je prema načelu kodiranja da programeri trebaju biti u mogu
 
 <p>
     <b>Pametno dovršenje koda</b> : IntelliJ IDEA nudi popis simbola primjenjivih na kôd koji su najrelevantniji u trenutnom kontekstu i podržava dovršavanje koda zasnovanog na kontekstu.<br>
-**Dovršenje lančanog koda** : Ovo je još jedna napredna značajka. Simboli koje pružaju metode ili geteri i oni koji se primjenjuju na trenutni kontekst navedeni su značajkom dovršavanja lančanog koda.<br>
-**Dovršenje statičnog člana** : Možete dodati statičke metode i konstante, a IntelliJ IDEA IDE automatski će dodati potrebne izjave o uvozu u kôd kako bi se izbjegla pogreška pri kompilaciji.<br>
-**Duplikati Otkrivanje** : U kodu mogu biti duplicirani fragmenti koda i ova značajka pruža obavijesti ili prijedloge programeru o njima.<br>
-**Uredničko-centrično okruženje** : Tijekom kodiranja dobivate i brze skočne prozore koji vam pomažu u provjeri dodatnih podataka bez napuštanja trenutnog konteksta.<br>
-**Inspekcije i brzi popravci** : IntelliJ IDEA iskoči malu žarulju na liniji koda gdje je otkrio da ćete pogrešiti. Kada kliknete na ovu žarulju, vidjet ćete popis prijedloga koda.<br>
-**Prečaci za sve** : Kao što je ranije spomenuto, budući da programeri imaju manje distrakcija, IntelliJ IDEA nudi tipke prečaca (tipkovne prečace) za gotovo sve, uključujući radnje poput brzog odabira i prebacivanja između različitih prozora alata i mnogih drugih operacija.<br>
-**Ugrađeni program za ispravljanje pogrešaka** : Možete koristiti ugrađeni program za ispravljanje pogrešaka za otklanjanje pogrešaka u vašoj aplikaciji u samom IDE-u, što čini procese razvoja i uklanjanja pogrešaka učinkovitijim.<br>
+<b>Dovršenje lančanog koda</b> : Ovo je još jedna napredna značajka. Simboli koje pružaju metode ili geteri i oni koji se primjenjuju na trenutni kontekst navedeni su značajkom dovršavanja lančanog koda.<br>
+<b>Dovršenje statičnog člana</b> : Možete dodati statičke metode i konstante, a IntelliJ IDEA IDE automatski će dodati potrebne izjave o uvozu u kôd kako bi se izbjegla pogreška pri kompilaciji.<br>
+<b>Duplikati Otkrivanje</b> : U kodu mogu biti duplicirani fragmenti koda i ova značajka pruža obavijesti ili prijedloge programeru o njima.<br>
+<b>Uredničko-centrično okruženje</b> : Tijekom kodiranja dobivate i brze skočne prozore koji vam pomažu u provjeri dodatnih podataka bez napuštanja trenutnog konteksta.<br>
+<b>Inspekcije i brzi popravci</b> : IntelliJ IDEA iskoči malu žarulju na liniji koda gdje je otkrio da ćete pogrešiti. Kada kliknete na ovu žarulju, vidjet ćete popis prijedloga koda.<br>
+<b>Prečaci za sve</b>: Kao što je ranije spomenuto, budući da programeri imaju manje distrakcija, IntelliJ IDEA nudi tipke prečaca (tipkovne prečace) za gotovo sve, uključujući radnje poput brzog odabira i prebacivanja između različitih prozora alata i mnogih drugih operacija.<br>
+<b>Ugrađeni program za ispravljanje pogrešaka</b> : Možete koristiti ugrađeni program za ispravljanje pogrešaka za otklanjanje pogrešaka u vašoj aplikaciji u samom IDE-u, što čini procese razvoja i uklanjanja pogrešaka učinkovitijim.<br>
 </p>
 
 <h2>Katalon Recorder</h2>
