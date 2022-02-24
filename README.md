@@ -40,6 +40,6 @@ Ovaj IDE dizajniran je prema načelu kodiranja da programeri trebaju biti u mogu
 
 <h3>Informacije</h3>
 
-<p> Više detalja o alatima može se naći na poveznicama <a href="https://www.jetbrains.com/idea/">IntelliJ</a> i <a href="https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid">Katalon Recorder</a>. </p>
+<p> Više detalja o alatima može se naći na poveznicama <a href="https://www.jetbrains.com/idea/">IntelliJ</a> i <a href="https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid">Katalon Recorder</a>.</p>
 
    
