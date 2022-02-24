@@ -6,11 +6,11 @@ Od knjiga do elektronike te odijeće, ova aplikacija pruža izbor kupnje svih ov
 Kako bi kupnja bila ustinu lakša, korisnicima je omogućeno dodavanje proizvoda u košaricu (Shoppingcart), na listu želja (Wishlist) te na listu za usporedbu (Compare list).
     
 <h2>Alati</h2>
-1. Potrebno je instalirati Chrome browser.
-2. Potrenbo je instalirati JAVA JDK na <a href="https://www.oracle.com/java/technologies/downloads/">linku</a>.
-3. Potrebno je instalirati IntelliJ na [linku](https://www.jetbrains.com/idea/download/).
-4. Potrebno je instalirati Chrome Driver na [linku](https://chromedriver.chromium.org/downloads).
-5. Dodati Katalon Recorder kao ekstenziju na svoj web prglednik na [linku](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid).
+1. Potrebno je instalirati Chrome browser.<br>
+2. Potrenbo je instalirati JAVA JDK na <a href="https://www.oracle.com/java/technologies/downloads/">linku</a>.<br>
+3. Potrebno je instalirati IntelliJ na <a href="https://www.jetbrains.com/idea/download/">linku</a>.<br>
+4. Potrebno je instalirati Chrome Driver na <a href="https://chromedriver.chromium.org/downloads">linku</a>.<br>
+5. Dodati Katalon Recorder kao ekstenziju na svoj web prglednik na <a href="https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid">linku</a>.<br>
 
 <h2>IntelliJ</h2>
 
