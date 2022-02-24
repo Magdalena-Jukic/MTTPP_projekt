@@ -1,9 +1,9 @@
 # MTTPP_projekt
 
 <h2>Demo Web Shop</h2>
-Demo Web Shop je web aplikacija koja korisnicima omogućuje laganu kupovinu svojim korisnicima.
+<p>Demo Web Shop je web aplikacija koja omogućuje laganu kupovinu svojim korisnicima.</p>
 Od knjiga do elektronike te odijeće, ova aplikacija pruža izbor kupnje svih ovih prizvoda te još i više.
-Kako bi kupnja bila ustinu lakša, korisnicima je omogućeno dodavanje proizvoda u košaricu (Shoppingcart), na listu želja (Wishlist) te na listu za usporedbu (Compare list).
+Kako bi kupnja bila ustinu lakša, korisnicima je omogućeno dodavanje proizvoda u košaricu (Shoppingcart), na listu želja (Wishlist) te na listu za usporedbu (Compare list). A, tu su i filteri koji pomažu sumanjiti izbor proizvoda samo na one koji zanimaju korisnika.
     
 <h2>Alati</h2>
 1. Potrebno je instalirati Chrome browser.<br>
